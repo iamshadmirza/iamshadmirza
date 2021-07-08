@@ -1,8 +1,8 @@
 ## Hi there, thanks for stoping by 👋
 
-- 💼 I work at [Hashnode](https://hashnode.com)
-- 💬 Ask me about Technical writing and React Native
-- 😍 I love: Art, Poetry, Skates, Animals and Code ✨.
+- 💼 Building [Hashnode](https://hashnode.com)
+- 💬 Ask me about Technical writing, Productivity, Art and React Native
+- 😍 I love: Art, Poetry, Skates, Pets and Code ✨.
 - 🤝 Where to connect: [twitter.com/iamshadmirza](https://www.twitter.com/iamshadmirza)
 - 📝 Read my recent articles at [iamshadmirza.com](https://iamshadmirza.com)
 

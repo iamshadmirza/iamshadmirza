@@ -1,4 +1,4 @@
-## Hi there, thanks for stoping by 👋
+## Hi there 👋
 
 - 💼 Building [Hashnode](https://hashnode.com)
 - 💬 Ask me about Technical writing, Productivity, Art and React Native
